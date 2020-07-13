@@ -10,7 +10,7 @@ RunTracker is a workout tracking application that lets the user log runs.
 
 
 <p align="center">
-   <img src="/README_res/App_Screenshot.png" height="500" />
+   <img src="/README_res/App_Screenshot.png"/>
 </p>
 
 
