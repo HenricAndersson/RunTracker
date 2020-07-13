@@ -8,6 +8,11 @@
 ## About
 RunTracker is a workout tracking application that lets the user log runs.
 
+## Usage
+
+
+
+
 ## Code
 RunTracker is a full-stack project consisting of three repositories:
 ### [Backend](https://github.com/HenricAndersson/RunTracker_Backend "Backend Repository")
