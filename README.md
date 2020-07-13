@@ -1,4 +1,4 @@
-# RunTracker - 
+# RunTracker - Track your runs
 
 [![language = java](https://img.shields.io/badge/language-java-ff4b3b.svg)](#)
 [![language = react](https://img.shields.io/badge/language-react-ffad3b.svg)](#)
