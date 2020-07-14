@@ -38,7 +38,7 @@ RunTracker is a full-stack project consisting of three repositories:
   * Google Oauth 2.0 for user authentication
 
 ### [Database](https://github.com/HenricAndersson/RunTracker_Database "Database Repository")
-  * MySql
+  * MySQL
 
 ## Installation
 
@@ -55,4 +55,4 @@ RunTracker is a full-stack project consisting of three repositories:
 
 ### Database
 1. Clone the [database repo](https://github.com/HenricAndersson/RunTracker_Database)
-2. Run the `DatabaseScript.sql` file on a MySql server
+2. Run the `DatabaseScript.sql` file on a MySQL server
