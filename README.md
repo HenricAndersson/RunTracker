@@ -16,11 +16,11 @@ RunTracker is a workout tracking application that lets the user log runs.
 
 
 
-## Code
+## Structure
 RunTracker is a full-stack project consisting of three repositories:
 ### [Backend](https://github.com/HenricAndersson/RunTracker_Backend "Backend Repository")
   * Java
-  * Spring Boot REST-API.
+  * Spring Boot REST-API
   * Maven 
   
 ### [Frontend](https://github.com/HenricAndersson/RunTracker_Frontend "Frontend Repository")
