@@ -4,9 +4,14 @@
 [![language = react](https://img.shields.io/badge/language-react-ffad3b.svg)](#)
 [![language = mysql](https://img.shields.io/badge/language-mysql-ad3bff.svg)](#)
 
+[![RunTracker banner](/README_res/RunTracker_Logo.png?raw=true)](#)
+
 
 ## About
 RunTracker is a workout tracking application that lets the user log runs.
+
+### Key Features
+
 
 
 <p align="center">
