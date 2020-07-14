@@ -10,7 +10,7 @@
 </p>
 
 ## About
-RunTracker is a workout tracking application that lets the user log runs.
+RunTracker is a workout tracking application that lets the user log runs
 
 
 ### Key Features
@@ -55,4 +55,4 @@ RunTracker is a full-stack project consisting of three repositories:
 
 ### Database
 1. Clone the [database repo](https://github.com/HenricAndersson/RunTracker_Database)
-2. Run the `DatabaseScript.sql` file on a MySql server.
+2. Run the `DatabaseScript.sql` file on a MySql server
