@@ -15,9 +15,10 @@ RunTracker is a workout tracking application that lets the user log runs.
 
 ### Key Features
 * Google Oauth User Authentication
-* 
+* Track workout progress
+* Easy navigation of previous workouts
 
-
+## Preview
 <p align="center">
    <img src="/README_res/App_Screenshot.png"/>
 </p>
